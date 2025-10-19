@@ -29,15 +29,12 @@ NordX-Checker
    нажимаем "правой кнопкой мыши" - "Свойства" , находим "тип запуска" и ставим "Автоматически",
    нажимаем кнопку "Применить" и "Запустить", проверяем как описано выше.
 
-3. Проверка Проводника
--- Просим игрока открыть "Проводник", слева сверху нажимаем "Вид",
-   Нужно поставить галочку "Скрытые элементы"
+3. Проверка проводника (через checker)
+-- Просим игрока открыть "hunter.exe", и нажать на кнопку "Анализ",
+   Нужно дождаться завершения анализа.
    Проверяем: 
-     "Рабочий стол".
-     "Загрузки" ищем (exloader installer)
-     "Program Files" ищем (tkazer, luno, exloader, enigmaditch, xone, странные папки)
-     "Appdata/Roaming" ищем (com.swiftsoft)
-     "program files(x86)" ищем (...\steam\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\nix)
+      1. C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\nix
+      2. Ищем названия читов после Анализа
 
 ```4. Проверка по Everything
 -- Нажимаем на кнопку Everything в программе и вставлем скопированный текст или копируем ниже:
