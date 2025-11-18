@@ -8,11 +8,11 @@
     "subscription": 0
   },
   "admin": {
-    "password": "94f94c9c97bfa92bd267f70e2abd266b069428c282f30ad521d486a069918925",
+    "password": "f21adfd19983708d38559239a8fd880fb9f91b864d07fe7a80b447068a5d0960",
     "subscription": 1
   },
   "test": {
     "password": "1542955d986dc8c244f908cf1567ad4d9a8b524972246ac119b3fad4bcb30a3d",
-    "subscription": 1
+    "subscription": 0
   }
 }
