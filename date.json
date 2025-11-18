@@ -1,1 +1,14 @@
-
+{
+  "user1": {
+    "password": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+    "subscription": 1
+  },
+  "user2": {
+    "password": "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5",
+    "subscription": 0
+  },
+  "admin": {
+    "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "subscription": 1
+  }
+}
